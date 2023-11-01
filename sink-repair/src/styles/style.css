@@ -1,0 +1,14 @@
+.serviceForm { display:flex;
+    flex-direction: column;
+
+    
+}
+
+.input {
+    width: 70%;
+}
+.button {
+    width: 200px;
+    background-color: blue;
+    color:white
+}
